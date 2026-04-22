@@ -9,7 +9,7 @@
 ## 🛠 Стек технологий
 
 * **Языки:** Python, SQL
-* **Machine Learning / Deep Learning:** scikit-learn, PyTorch, CatBoost
+* **Machine Learning / Deep Learning:** scikit-learn, PyTorch, CatBoost, LinearRegression, Random Forest Classifier
 * **Анализ данных:** Pandas, NumPy, Matplotlib, Seaborn
 * **Инструменты и разработка:** Git, GitHub, Jupyter Notebook, Yandex GPT API, Yandex OCR API, Google Gemini API.
 
