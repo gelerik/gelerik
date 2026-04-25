@@ -70,6 +70,6 @@
 
 Буду рад обсудить возможности стажировки и ответить на вопросы:
 
-* **Telegram:** [@твой_ник](https://t.me/твой_ник)
-* **Email:** [твоя_почта@gmail.com](mailto:твоя_почта@gmail.com)
-* **Резюме:** [Ссылка на HeadHunter или PDF на Google Drive]
+* **Telegram:** [@ya_gelerik](https://t.me/ya_gelerik)
+* **Email:** [egorkinemail@gmail.com](mailto:твоя_почта@gmail.com)
+* **Резюме:** []
