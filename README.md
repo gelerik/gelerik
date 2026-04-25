@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Стек технологий
+## Стек технологий
 
 * **Языки:** Python, SQL
 * **Machine Learning / Deep Learning:** scikit-learn, PyTorch, CatBoost, LinearRegression, Random Forest Classifier
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏆 Опыт и проекты
+## Опыт и проекты
 
 ### 1. Коммерческий опыт (Стартап)
 * **Backend Engineer / AI Integrator** в Falconia AI *Октябрь 2025*
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 Буду рад обсудить возможности стажировки и ответить на вопросы:
 
