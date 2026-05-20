@@ -76,4 +76,4 @@
 
 * **Telegram:** [@ya_gelerik](https://t.me/ya_gelerik)
 * **Email:** [egorkinemail@gmail.com](mailto:твоя_почта@gmail.com)
-* **Резюме:** 📄 Resume: [Open Resume](./Resume_ML_Engineer_Potapov_Egor.pdf)
+* **Резюме:** [Open Resume](./Resume_ML_Engineer_Potapov_Egor.pdf)
