@@ -9,9 +9,9 @@
 ## Стек технологий
 
 * **Языки:** Python, SQL
-* **Machine Learning / Deep Learning:** scikit-learn, PyTorch, CatBoost, LinearRegression, Random Forest Classifier
+* **Machine Learning / Deep Learning:** scikit-learn, PyTorch, CatBoost, LinearRegression, Random Forest Classifier, Ultralytics YOLO
 * **Анализ данных:** Pandas, NumPy, Matplotlib, Seaborn
-* **Инструменты и разработка:** Git, GitHub, Jupyter Notebook, Yandex GPT API, Yandex OCR API, Google Gemini API.
+* **Инструменты и разработка:** Git, GitHub, Jupyter Notebook, Streamlit, FastAPI, Yandex GPT API, Yandex OCR API, Google Gemini API.
 
 ---
 
@@ -49,10 +49,13 @@
   * **Результат:** Команда успешно разработала плагин VS Code для поиска и ранжирования секретов во всё коде проекта.
     
 ### 3. Собственные проекты
-**1)[Обнаружение дефектов ЛЭП с помощью YOLO](https://github.com/gelerik/PowerLine-CV-Project)**
-  * 
+**1) [Обнаружение дефектов ЛЭП с помощью YOLO](https://github.com/gelerik/PowerLine-CV-Project)**
+  * **Описание:** PowerLine CV Project - pet-проект по Computer Vision для автоматического поиска дефектов на линиях электропередач. 
+  * **Реализовал:** end-to-end ML-приложение: инференс YOLO-моделей на изображениях, удобный Streamlit-интерфейс с визуализацией bounding boxes, confidence, сводкой по найденным классам и историей запусков с фильтрацией,    просмотром прошлых результатов и экспортом в CSV. Реализовал сравнение трех моделей YOLOv12n/s/L под разные сценарии скорости и качества. 
+  * **Результаты:** Лучшая модель достигла mAP50 = 0.883 и mAP50-95 = 0.681.
+  * **Стек:** Python, Streamlit, FastAPI, Ultralytics YOLO, PyTorch, OpenCV, Pillow, pandas.
 
-**2)[Комуналка AI](https://github.com/gelerik/KomunalkaAI)** *(В активной разработке)* 
+**2) [Комуналка AI](https://github.com/gelerik/KomunalkaAI)** *(В активной разработке)* 
   * Проблема: В 2026 году российские граждане массово переплачивают за ЖКХ (у многих счета выросли на 30%).
   * Решение: Telegram-бот, анализирующий квитанцию по фото/файлу. Сканирование происходит при помощи Yandex OCR + Yandex GPT. Telegram-бот выдаёт итог в виде сообщния. Итог формируется на основе подсёта данных с использованием database тарифов на услуги по конкретному региону. По необходимости у бота можно запросить создание готового заявления на перерасчёт комунальных услуг.
   * **Стек:** Python, Yandex OCR API, Yandex GPT API.
